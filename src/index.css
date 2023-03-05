@@ -18,7 +18,7 @@
     --color-primary: #4bd5ff;
     --color-primary-variant: rgba(77, 18, 255, 0.4);
     --color-white: #fff;
-    --color-light: rgba(255, 255, 55, 0.6);
+    --color-light: rgba(255, 255, 255, 0.6);
 
     --transition: all 400ms ease;
 
@@ -78,7 +78,7 @@ section>h2 {
     margin-bottom: 3rem;
 }
 
-.text-light {
+.text-light{
     color: var(--color-light);
 }
 
@@ -142,3 +142,4 @@ img{
         margin-bottom: 2rem;
     }
 }
+
