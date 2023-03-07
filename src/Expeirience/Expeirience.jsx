@@ -5,9 +5,10 @@ import React from 'react'
 
 const Expeirience = () => {
   return (
-    <div>
-      Expeirience
-    </div>
+   <section id="expeirience">
+    Expeirience
+   </section>
+
   )
 }
 
