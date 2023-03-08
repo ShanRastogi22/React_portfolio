@@ -76,13 +76,21 @@ header{
 
 @media screen and (max-width: 600px) {
     header {
-        height: 100vh;
+        height: 105vh;
     }
 
-    .header_social,
+    
     .scroll_down{
         display: none;
     }
     
+    .header_social {
+      flex-direction: row;
+      margin-bottom: -3rem;
+      margin-left: 8rem;
+
+        
+       
+    }
     
 }
