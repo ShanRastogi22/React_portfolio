@@ -81,7 +81,7 @@ const Expeirience = () => {
             <article className="experience_details">
               <BsPatchCheckFill className='experience_details-icon'/>
               <div>
-                <h4>MySQL</h4>
+                <h4>Netlify</h4>
                 <small className='text-light'>Basic</small>
               </div>
             </article>
@@ -89,7 +89,7 @@ const Expeirience = () => {
             <article className="experience_details">
               <BsPatchCheckFill className='experience_details-icon'/>
               <div>
-                <h4>Python</h4>
+                <h4>FireBase</h4>
                 <small className='text-light'>Basic</small>
               </div>
             </article>

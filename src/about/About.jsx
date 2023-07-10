@@ -39,7 +39,16 @@ const About = () => {
               <small>5 Completed</small>
             </article>
           </div>
-          <p>Lorem ipsum dolor sit, amet consectetur adipisicing elit. Odit quibusdam, quas, totam illo, blanditiis veritatis sint soluta qui laborum iste molestiae tenetur possimus nam dicta non cum nihil ratione consequuntur.</p>
+          <p>Hardworking Full Stack Web Developer Intern with
+experience in varied platform development
+frameworks. Focused on problem-solving and
+troubleshooting to identify targeted solutions.
+Proactive, methodical and quick to learn for reliable
+team support. Productive employee with proven
+track record of successful project management and
+producing quality outcomes through leadership and
+team motivation. Works with clients to determine
+requirements and provide excellent service.</p>
           <a href="#contact" className='btn btn-primary'>Let's talk</a>
 
 
